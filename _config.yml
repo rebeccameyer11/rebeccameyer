@@ -1,9 +1,8 @@
+remote_theme: "mmistakes/minimal-mistakes"
+
 title: "Rebecca Meyer"
 email: "rlwinterisu@gmail.com"
 description: "Data Analytics Portfolio"
-theme: minimal-mistakes-jekyll
-
-remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-include-cache
