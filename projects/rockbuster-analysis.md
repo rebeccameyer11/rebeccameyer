@@ -34,7 +34,7 @@ Rockbuster Stealth LLC is a movie rental company that previously had stores arou
 
 *Figure 1: Rockbuster Customers are located around the world, but the top countries with the most customers are: India, China, United States, Mexico, Russian Federation, Brazil.*
 
-![What was the Average Rental Duraction?](/assets/images/RB_RentalDuration.png)
+![What was the Average Rental Duration?](/assets/images/RB_RentalDuration.png)
 
 *Figure 2: The Thriller genre had the highest rental duration at 6 days.*
 
