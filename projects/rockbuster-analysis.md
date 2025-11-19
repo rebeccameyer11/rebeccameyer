@@ -8,11 +8,17 @@ excerpt: "Performed data cleaning, filtering, CTEs, and subqueries."
 Rockbuster Stealth LLC is a movie rental company that previously had stores around the world. To keep up with competition such as Netflix and Amazon Prime, Rockbuster plans to use its existing movie licenses to launch their own online rental service.
 
 ## Skills Used
-- Data cleaning
-- Joins
-- PostgreSQL
-- pgAdmin4
-- Tableau dashboard design
+- Explained the differences between relational and non-relational databases
+- Set up and configured a database environment using PostgreSQL
+- Identified key database structures including primary keys, foreign keys, and indexes
+- Understood common data types in relational databases
+- Extracted and drafted entity relationship diagrams (ERDs)
+- Wrote SQL queries in PostgreSQL to answer foundational business questions
+- Wrote SQL queries to sort, structure, and organize datasets
+- Filtered and cleaned datasets to support analysis
+- Created summary statistics using SQL for data profiling
+- Performed multi-table joins to merge datasets
+- Created a structured presentation of findings to communicate insights
 
 ## Key Findings
 <ul>
@@ -24,9 +30,13 @@ Rockbuster Stealth LLC is a movie rental company that previously had stores arou
 </ul>
 
 ## Visuals
-Data Dictionary: <a href="https://drive.google.com/file/d/1jbEf9nOE88JddyY5_tx3rskF3MV2INBF/view">View Data Dictionary</a><br>
-PowerPoint Presentation: <a href="https://docs.google.com/presentation/d/15jsMmqc0pKX0abDoUqtnk3HV_U0G4_8s/edit?slide=id.p1#slide=id.p1">View presentation</a>
+![Which Countries are Rockbuster Customers Based In?](/assets/images/RB_CustomerLocal.png)
 
-## Code & Resources
-- GitHub Repo: <a href="https://github.com/rebeccameyer11/SQL_RockbusterStealthDataAnalysis/tree/main">View here</a><br>
-- Tableau visualizations used in presentation: <a href="https://public.tableau.com/views/A3FinalStory/A3FinalStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">View visualizations in Tableau</a><br>
+*Figure 1: Rockbuster Customers are located around the world, but the top countries with the most customers are: India, China, United States, Mexico, Russian Federation, Brazil.*
+
+![What was the Average Rental Duraction?](/assets/images/RB_RentalDuration.png)
+
+*Figure 2: The Thriller genre had the highest rental duration at 6 days.*
+
+## Final Deliverable
+- <a href="https://github.com/rebeccameyer11/SQL_RockbusterStealthDataAnalysis/tree/main">GitHub Repo</a><br>
