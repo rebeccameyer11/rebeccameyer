@@ -1,6 +1,7 @@
 ---
 title: "Rockbuster Stealth Data Analysis"
 layout: single
+author_profile: true
 excerpt: "Performed data cleaning, filtering, CTEs, and subqueries."
 ---
 
