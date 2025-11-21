@@ -1,6 +1,8 @@
 ---
 layout: home
 author_profile: true
+sidebar:
+  nav: "navigation"
 title: "Rebecca Meyer — Data Analytics Portfolio"
 ---
 I’m a Data Analyst with a decade of experience in email marketing, where I learned firsthand how powerful data can be in shaping strategy, improving customer experiences, and driving measurable results. While working across vendor management, nonprofit, and education sectors, I found myself increasingly drawn to the analytical side of my work — digging into performance metrics, spotting trends, and using data to help guide decisions. That curiosity led me to pursue formal training in data analytics, where I discovered how much I enjoy exploratory analysis, visualization, geospatial analysis, and building insights that tell a clear story that help drive decision-making.
