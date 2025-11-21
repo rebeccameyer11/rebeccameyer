@@ -31,10 +31,7 @@ Rockbuster Stealth LLC is a movie rental company that previously had stores arou
 </ul>
 
 ## Visuals
-{% include figure image="/assets/images/RB_CustomerLocal.png" caption="Figure 1: Rockbuster Customers around the world" %}
-
-
-![Which Countries are Rockbuster Customers Based In?](/assets/images/RB_CustomerLocal.png)
+![Which Countries are Rockbuster Customers Based In?](/rebeccameyer/assets/images/RB_CustomerLocal.png)
 
 *Figure 1: Rockbuster Customers are located around the world, but the top countries with the most customers are: India, China, United States, Mexico, Russian Federation, Brazil.*
 
