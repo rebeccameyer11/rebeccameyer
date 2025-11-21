@@ -7,6 +7,9 @@ description: "Data Analytics Portfolio"
 plugins:
   - jekyll-include-cache
 
+ include:
+  - assets 
+
 # Author info
 author:
   name: "Rebecca Meyer"
