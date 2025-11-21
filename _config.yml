@@ -22,6 +22,18 @@ markdown: kramdown
 highlighter: rouge
 paginate: 5
 
+# Sidebar settings
+defaults:
+  - scope:
+      path: "projects"
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+      toc: true        # optional table of contents
+      sidebar: true    # <-- enable sidebar
+
+
 # Defaults for posts/projects
 defaults:
   - scope:
