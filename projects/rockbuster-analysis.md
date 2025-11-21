@@ -30,6 +30,8 @@ Rockbuster Stealth LLC is a movie rental company that previously had stores arou
 </ul>
 
 ## Visuals
+{% include figure image="/assets/images/RB_CustomerLocal.png" caption="Figure 1: Rockbuster Customers around the world" %}
+
 
 ![Which Countries are Rockbuster Customers Based In?](/assets/images/RB_CustomerLocal.png)
 
