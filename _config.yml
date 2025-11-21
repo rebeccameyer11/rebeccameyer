@@ -7,8 +7,8 @@ description: "Data Analytics Portfolio"
 plugins:
   - jekyll-include-cache
 
- include:
-  - assets 
+include:
+  - assets
 
 # Author info
 author:
