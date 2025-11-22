@@ -30,13 +30,17 @@ As an analyst for Instacart, an online grocery store that operates through an ap
 </ul>
 
 ## Visuals
-![Which Countries are Rockbuster Customers Based In?](https://rebeccameyer11.github.io/rebeccameyer/assets/images/RB_CustomerLocal.png)
+![What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?](https://rebeccameyer11.github.io/rebeccameyer/assets/images/IC_LoyaltyFlag.png)
 
-*Figure 1: Rockbuster Customers are located around the world, but the top countries with the most customers are: India, China, United States, Mexico, Russian Federation, Brazil.*
+*Figure 1: From this chart, you can see that regular customers are the primary customer at Instacart.*
 
-![What was the Average Rental Duration?](https://rebeccameyer11.github.io/rebeccameyer/assets/images/RB_RentalDuration.png)
+![What are the busiest days of the week for Instacart?](https://rebeccameyer11.github.io/rebeccameyer/assets/images/IC_bar_orders_dow.png)
 
-*Figure 2: The Thriller genre had the highest rental duration at 6 days.*
+*Figure 2: Weekend shopping is the most popular. (0 = Saturday and 1 = Sunday)*
+
+![What is the busist hour of the day at Instacart?](https://rebeccameyer11.github.io/rebeccameyer/assets/images/IC_order_hour_of_day.png)
+
+*Figure 3: Most orders come through during the 11:00 to 15:00 hours of the day. Instacart can expect to be busiest during those timeframes and should aim to schedule ads during the hours of 0:00 - 10:00 and 16:00 - 24:00.*
 
 ## Final Deliverable
-- <a href="https://github.com/rebeccameyer11/SQL_RockbusterStealthDataAnalysis/tree/main">GitHub Repo</a><br>
+- <a href="https://github.com/rebeccameyer11/InstacartDataAnalysis/tree/main">GitHub Repo</a><br>
