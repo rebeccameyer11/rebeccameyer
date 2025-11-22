@@ -16,5 +16,5 @@ Feel free to contact me at rlwinterisu (at) gmail (dot) com.
 ## Featured Projects
 - [Rockbuster Stealth Data Analysis](projects/rockbuster-analysis)
 - [Instacart Data Analysis](projects/instacart-analysis)
-- [Public Libraries & Literacy Rates Analysis](projects/libraries-literacy-analysis)
+- [Public Libraries & Literacy Rates Analysis](projects/libraries-literacy-rates)
 - [New York Citi Bikes Analysis](projects/nyc-citi-bikes)
