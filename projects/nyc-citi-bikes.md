@@ -28,13 +28,17 @@ For this project, the goal was to analyze user behavior to help the business str
 </ul>
 
 ## Visuals
-![Which Countries are Rockbuster Customers Based In?](https://rebeccameyer11.github.io/rebeccameyer/assets/images/RB_CustomerLocal.png)
+![How does weather influence ridership patterns?](https://rebeccameyer11.github.io/rebeccameyer/assets/images/CB_Weather.png)
 
-*Figure 1: Rockbuster Customers are located around the world, but the top countries with the most customers are: India, China, United States, Mexico, Russian Federation, Brazil.*
+*Figure 1: There is a clear positive correlation between temperature and ridership — as the weather warms up, the number of trips increase.*
 
-![What was the Average Rental Duration?](https://rebeccameyer11.github.io/rebeccameyer/assets/images/RB_RentalDuration.png)
+![What are the top 10 most popular bike stations?](https://rebeccameyer11.github.io/rebeccameyer/assets/images/CB_Top-10-Bike-Stations.png)
 
-*Figure 2: The Thriller genre had the highest rental duration at 6 days.*
+*Figure 2: The Grove St PATH station stands out as the most popular station, recording significantly higher trip counts compared to other stations.*
+
+![How does ridership differ on weekdays vs weekends??](https://rebeccameyer11.github.io/rebeccameyer/assets/images/CB_Ride-Type.png)
+
+*Figure 2: Member rides were highest during the weekday and weekend, but casual riders were more active during the weekdays.*
 
 ## Final Deliverable
 - <a href="https://github.com/rebeccameyer11/Citi_Bikes_Analysis">GitHub Repo</a><br>
