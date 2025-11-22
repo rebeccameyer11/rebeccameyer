@@ -30,8 +30,13 @@ As an analyst for Instacart, an online grocery store that operates through an ap
 </ul>
 
 ## Visuals
-(Add links, images, or embedded HTML charts)
+![Which Countries are Rockbuster Customers Based In?](https://rebeccameyer11.github.io/rebeccameyer/assets/images/RB_CustomerLocal.png)
 
-## Code & Resources
-- [Project GitHub Repo](#)
-- [Tableau Dashboard](#)
+*Figure 1: Rockbuster Customers are located around the world, but the top countries with the most customers are: India, China, United States, Mexico, Russian Federation, Brazil.*
+
+![What was the Average Rental Duration?](https://rebeccameyer11.github.io/rebeccameyer/assets/images/RB_RentalDuration.png)
+
+*Figure 2: The Thriller genre had the highest rental duration at 6 days.*
+
+## Final Deliverable
+- <a href="https://github.com/rebeccameyer11/SQL_RockbusterStealthDataAnalysis/tree/main">GitHub Repo</a><br>
