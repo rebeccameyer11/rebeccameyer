@@ -18,6 +18,7 @@ For this project, the goal was to analyze user behavior to help the business str
 <li>Merged, cleaned, and transformed datasets using Python (including apply() and lambda functions) to prepare data for analytical workflows.</li>
 <li>Created bar charts, line charts, seaborn plots, FacetGrids, and geospatial visualizations with kepler.gl; evaluated visualization quality and interpreted results.</li>
 <li>Designed, built, and deployed dashboards using Plotly and Streamlit (including multi-page apps), applying design principles and presenting analytical findings.</li>
+</ul>
 
 ## Key Findings
 <ul>
@@ -28,6 +29,7 @@ For this project, the goal was to analyze user behavior to help the business str
 </ul>
 
 ## Visuals
+
 ![How does weather influence ridership patterns?](https://rebeccameyer11.github.io/rebeccameyer/assets/images/CB_Weather.png)
 
 *Figure 1: There is a clear positive correlation between temperature and ridership — as the weather warms up, the number of trips increase.*
@@ -38,7 +40,7 @@ For this project, the goal was to analyze user behavior to help the business str
 
 ![How does ridership differ on weekdays vs weekends??](https://rebeccameyer11.github.io/rebeccameyer/assets/images/CB_Ride-Type.png)
 
-*Figure 2: Member rides were highest during the weekday and weekend, but casual riders were more active during the weekdays.*
+*Figure 3: Member rides were highest during the weekday and weekend, but casual riders were more active during the weekdays.*
 
 ## Final Deliverable
 - <a href="https://github.com/rebeccameyer11/Citi_Bikes_Analysis">GitHub Repo</a><br>
