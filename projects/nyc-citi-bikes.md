@@ -11,25 +11,20 @@ excerpt: "Completed data scraping, NLP, network visualization, and text mining."
 For this project, the goal was to analyze user behavior to help the business strategy department assess the current logistics model of bike distribution across the city, while also identify expansion opportunities.
 
 ## Skills Used
-- Explained the differences between relational and non-relational databases
-- Set up and configured a database environment using PostgreSQL
-- Identified key database structures including primary keys, foreign keys, and indexes
-- Understood common data types in relational databases
-- Extracted and drafted entity relationship diagrams (ERDs)
-- Wrote SQL queries in PostgreSQL to answer foundational business questions
-- Wrote SQL queries to sort, structure, and organize datasets
-- Filtered and cleaned datasets to support analysis
-- Created summary statistics using SQL for data profiling
-- Performed multi-table joins to merge datasets
-- Created a structured presentation of findings to communicate insights
+<ul>
+<li>Configured GitHub workflows (clone, push/pull, SSH keys) and built Python virtual environments using Anaconda to manage dependencies.</li>
+<li>Retrieved structured and unstructured data using APIs and performed ethical web scraping by reviewing site permissions and implementing scraping libraries.</li>
+<li>Applied text mining techniques, ran NLP algorithms, generated network-analysis-ready dataframes, and built network graphs with iterative improvements.</li>
+<li>Merged, cleaned, and transformed datasets using Python (including apply() and lambda functions) to prepare data for analytical workflows.</li>
+<li>Created bar charts, line charts, seaborn plots, FacetGrids, and geospatial visualizations with kepler.gl; evaluated visualization quality and interpreted results.</li>
+<li>Designed, built, and deployed dashboards using Plotly and Streamlit (including multi-page apps), applying design principles and presenting analytical findings.</li>
 
 ## Key Findings
 <ul>
-<li>Movie that contributed the most revenue: Telegraph Voyage ($215.75)</li>
-<li>Average rental duration for all movies was 4.985 days.</li>
-<li>Rockbuster customers are located around the world, but the top countries are: India, China, U.S., Mexico, Russian Federation, and Brazil.</li>
-<li>Customers with a high lifetime value are located in: Mexico, Turkey, U.S., and India.</li>
-<li>India has the highest sales figures at $6,035.</li>
+<li>As the weather warms up, the number of trips increase, with June through October showing the highest ridership.</li>
+<li>The most popular station is Grove St PATH, followed by South Waterfront Walkway and Hoboken Terminal.</li>
+<li>Electric bikes and classic bikes have similar distributions for ridership and at bike stations.</li>
+<li>CMembers have the highest ridership during weekdays.</li>
 </ul>
 
 ## Visuals
@@ -42,4 +37,6 @@ For this project, the goal was to analyze user behavior to help the business str
 *Figure 2: The Thriller genre had the highest rental duration at 6 days.*
 
 ## Final Deliverable
-- <a href="https://github.com/rebeccameyer11/SQL_RockbusterStealthDataAnalysis/tree/main">GitHub Repo</a><br>
+- <a href="https://github.com/rebeccameyer11/Citi_Bikes_Analysis">GitHub Repo</a><br>
+- <a href="https://citibikesanalysis-qrqgtuhpdxhdd9g5eplksq.streamlit.app/">Streamlit URL</a><br>
+- <a href="https://vimeo.com/1135090471?share=copy&fl=sv&fe=ci">Vimeo Presentation</a><br>
