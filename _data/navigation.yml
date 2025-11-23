@@ -1,3 +1,8 @@
+navigation:
+- title: "Home"
+  url: "/index/"
+- title: "Projects"
+  url: "/projects/projects/"
 - title: "Rockbuster Stealth Data Analysis"
   url: "/projects/rockbuster-analysis/"
 - title: "Instacart Data Analysis"
