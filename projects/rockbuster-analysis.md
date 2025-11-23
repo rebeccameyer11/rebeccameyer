@@ -44,5 +44,5 @@ Rockbuster Stealth LLC is a movie rental company that previously had stores arou
 
 ## Final Deliverable
 - <a href="https://github.com/rebeccameyer11/SQL_RockbusterStealthDataAnalysis/tree/main">GitHub Repo</a><br>
-- <a href="https://github.com/rebeccameyer11/SQL_RockbusterStealthDataAnalysis/blob/main/Rockbuster%20Stealth%20Presentation.pptx">Final Presentation Deck</a><br>
+- <a href="https://docs.google.com/presentation/d/15jsMmqc0pKX0abDoUqtnk3HV_U0G4_8s/edit?slide=id.p1#slide=id.p1">Final Presentation Deck</a><br>
 
