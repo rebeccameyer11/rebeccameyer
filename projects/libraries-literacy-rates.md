@@ -4,6 +4,7 @@ layout: single
 sidebar:
   nav: "navigation"
 excerpt: "Performed exploratory, geospatial, regression, clustering, and time-series analyses."
+permalink: /projects/libraries-literacy-rates/
 ---
 
 ## Overview
