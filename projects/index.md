@@ -19,7 +19,7 @@ Here you’ll find a curated selection of projects demonstrating my ability to w
 Each project includes code, narrative, and insights.
 
 ## Projects
-[Rockbuster Stealth Data Analysis](projects/rockbuster-analysis)
+<b>[Rockbuster Stealth Data Analysis](/projects/rockbuster-analysis)</b><br>
 <ul>
   <li>Analyzed movie rental data to support streaming expansion strategy.</li>
   <li>Performed data cleaning, filtering, CTEs, and subqueries.</li>
