@@ -17,7 +17,7 @@ Here you’ll find a curated selection of projects demonstrating my ability to w
 </ul>
 
 Each project includes code, narrative, and insights.<br><br>
-<b><a href="https://github.com/rebeccameyer11/PublicLibrariesLiteracyRates/blob/main/05%20Sent%20to%20Client/Exercise%206.7_Rebecca%20Meyer.pdf">View my Data Analyst Portfolio</a></b><br>
+<b><a href="https://github.com/rebeccameyer11/PublicLibrariesLiteracyRates/blob/main/05%20Sent%20to%20Client/Exercise%206.7_Rebecca%20Meyer.pdf" target="_blank">View my Data Analyst Portfolio</a></b><br>
 
 ## Projects
 <b><a href="https://rebeccameyer11.github.io/rebeccameyer/projects/rockbuster-analysis/">Rockbuster Stealth Data Analysis</a></b><br>
