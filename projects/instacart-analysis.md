@@ -4,7 +4,7 @@ layout: single
 sidebar:
   nav: "navigation"
 excerpt: "Conducted data wrangling, quality checks, EDA, and visualizations in order to identify sales trends to inform targeted marketing strategies."
-permalink: /projects/instacart-analysis
+permalink: /projects/instacart-analysis/
 ---
 
 ## Overview
