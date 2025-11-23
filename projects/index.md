@@ -40,7 +40,7 @@ Each project includes code, narrative, and insights.
   <li>Tools: Python, Pandas, Folium, sklearn, Statsmodels</li>
 </ul>
 
-<b>[New York Citi Bikes Analysis](projects/nyc-citi-bikes)</b>><br>
+<b>[New York Citi Bikes Analysis](projects/nyc-citi-bikes)</b><br>
 <ul>
   <li>Analyzed user behavior and usage trends to support logistics planning.</li>
   <li>Completed data scraping, NLP, network visualization, and text mining.</li>
