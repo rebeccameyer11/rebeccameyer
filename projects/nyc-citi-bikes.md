@@ -9,7 +9,7 @@ permalink: /projects/nyc-citi-bikes/
 ---
 
 ## Overview
-For this project, the goal was to analyze user behavior to help the business strategy department assess the current logistics model of bike distribution across the city, while also identify expansion opportunities.
+For this project, the goal was to analyze user behavior to help the business strategy department assess the current logistics model of bike distribution across the city, while also identifying expansion opportunities.
 
 ## Skills Used
 <ul>
