@@ -26,7 +26,7 @@ Each project includes code, narrative, and insights.
   <li>Tools: PostgreSQL, pgAdmin4, Tableau</li>
 </ul>
 
-<b><a href="https://rebeccameyer11.github.io/rebeccameyer/projects/instacart-analysis/">Instacart Grocery Basket Analysis</a></b><br>
+<b><a href="https://rebeccameyer11.github.io/rebeccameyer/projects/instacart-analysis/">Instacart Data Analysis</a></b><br>
 <ul>
   <li>Identified sales trends to inform targeted marketing strategies.</li>
   <li>Conducted data wrangling, quality checks, EDA, and visualizations.</li>
