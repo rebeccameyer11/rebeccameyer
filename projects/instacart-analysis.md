@@ -45,3 +45,4 @@ As an analyst for Instacart, an online grocery store that operates through an ap
 
 ## Final Deliverable
 - <a href="https://github.com/rebeccameyer11/InstacartDataAnalysis/tree/main">GitHub Repo</a><br>
+- <a href="https://docs.google.com/spreadsheets/d/17OX4X24E0fPhQf-v6XimJL1RkKlKF5VO/edit?gid=1159465294#gid=1159465294">Final Report</a>
