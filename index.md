@@ -9,7 +9,7 @@ I’m a Data Analyst with a decade of experience in email marketing, where I lea
 
 I’m now focused on combining my marketing background with my analytical skills to solve real business problems. My goal is to continue growing as an analyst by working with complex datasets, building impactful dashboards, and developing models that support smarter decision-making. I’m especially interested in roles that sit at the intersection of analytics, storytelling, and strategy.
 
-I’m currently looking for opportunities to contribute to data-driven teams — particularly in marketing analytics, product analytics, customer insights, or any environment where understanding user behavior leads to better outcomes. What keeps me excited about this field is the constant learning and that every dataset offers a new pattern to uncover and a new way to help people see their work more clearly.
+I’m seeking roles on data-driven teams, particularly in marketing analytics, product analytics, or customer insights. I love this field because there’s always something new to learn — each dataset brings fresh patterns to uncover.
 
 Feel free to contact me at rlwinterisu (at) gmail (dot) com.
 
