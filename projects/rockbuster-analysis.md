@@ -5,6 +5,7 @@ author_profile: true
 sidebar:
   nav: "navigation"
 excerpt: "Performed data cleaning, filtering, CTEs, and subqueries."
+permalink: /projects/rockbuster-analysis/
 ---
 
 ## Overview
