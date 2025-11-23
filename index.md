@@ -13,6 +13,7 @@ I’m now focused on combining my marketing background with my analytical skills
 I’m seeking roles on data-driven teams, particularly in marketing analytics, product analytics, or customer insights. I love this field because there’s always something new to learn — each dataset brings fresh patterns to uncover.
 
 Feel free to contact me at rlwinterisu (at) gmail (dot) com.
+Download my resume https://github.com/rebeccameyer11/rebeccameyer/blob/main/assets/images/Rebecca%20Meyer_Resume.pdf
 
 ## Featured Projects
 - [Rockbuster Stealth Data Analysis](projects/rockbuster-analysis)
