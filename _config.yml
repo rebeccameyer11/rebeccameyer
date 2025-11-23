@@ -34,7 +34,7 @@ defaults:
       sidebar: true    # <-- enable sidebar
 
 
-# Defaults for posts/projects
+# Sidebar + defaults (combined)
 defaults:
   - scope:
       path: ""
@@ -43,6 +43,7 @@ defaults:
       layout: single
       author_profile: true
       show_date: true
+
   - scope:
       path: "projects"
       type: "pages"
@@ -50,3 +51,4 @@ defaults:
       layout: single
       author_profile: true
       toc: true
+      sidebar: true
