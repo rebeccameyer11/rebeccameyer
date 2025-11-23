@@ -26,7 +26,7 @@ For this project, the goal was to analyze user behavior to help the business str
 <li>As the weather warms up, the number of trips increase, with June through October showing the highest ridership.</li>
 <li>The most popular station is Grove St PATH, followed by South Waterfront Walkway and Hoboken Terminal.</li>
 <li>Electric bikes and classic bikes have similar distributions for ridership and at bike stations.</li>
-<li>CMembers have the highest ridership during weekdays.</li>
+<li>Members have the highest ridership during weekdays.</li>
 </ul>
 
 ## Visuals
