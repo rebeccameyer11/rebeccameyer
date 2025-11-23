@@ -5,6 +5,7 @@ author_profile: true
 sidebar:
   nav: "navigation"
 excerpt: "Completed data scraping, NLP, network visualization, and text mining."
+permalink: /projects/nyc-citi-bikes/
 ---
 
 ## Overview
