@@ -44,6 +44,6 @@ For this project, the goal was to analyze user behavior to help the business str
 *Figure 3: Member rides were highest during the weekday and weekend, but casual riders were more active during the weekdays.*
 
 ## Final Deliverable
-- <a href="https://github.com/rebeccameyer11/Citi_Bikes_Analysis">GitHub Repo</a><br>
-- <a href="https://citibikesanalysis-qrqgtuhpdxhdd9g5eplksq.streamlit.app/">Streamlit URL</a><br>
-- <a href="https://vimeo.com/1135090471?share=copy&fl=sv&fe=ci">Vimeo Presentation</a><br>
+- <a href="https://github.com/rebeccameyer11/Citi_Bikes_Analysis" target="_blank">GitHub Repo</a><br>
+- <a href="https://citibikesanalysis-qrqgtuhpdxhdd9g5eplksq.streamlit.app/" target="_blank">Streamlit URL</a><br>
+- <a href="https://vimeo.com/1135090471?share=copy&fl=sv&fe=ci" target="_blank">Vimeo Presentation</a><br>
