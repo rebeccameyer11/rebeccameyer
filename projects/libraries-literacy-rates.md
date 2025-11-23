@@ -42,3 +42,4 @@ For this project, the goal was to determine if public libraries and public libra
 
 ## Final Deliverable
 - <a href="https://github.com/rebeccameyer11/PublicLibrariesLiteracyRates">GitHub Repo</a><br>
+- <a href="https://github.com/rebeccameyer11/PublicLibrariesLiteracyRates/blob/main/05%20Sent%20to%20Client/Exercise%206.7_Rebecca%20Meyer.pdf">Final Presentation Deck</a><br>
