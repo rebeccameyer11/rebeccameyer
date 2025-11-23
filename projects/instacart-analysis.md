@@ -44,5 +44,5 @@ As an analyst for Instacart, an online grocery store that operates through an ap
 *Figure 3: Most orders come through during the 11:00 to 15:00 hours of the day. Instacart can expect to be busiest during those timeframes and should aim to schedule ads during the hours of 0:00 - 10:00 and 16:00 - 24:00.*
 
 ## Final Deliverable
-- <a href="https://github.com/rebeccameyer11/InstacartDataAnalysis/tree/main">GitHub Repo</a><br>
-- <a href="https://docs.google.com/spreadsheets/d/17OX4X24E0fPhQf-v6XimJL1RkKlKF5VO/edit?gid=1159465294#gid=1159465294">Final Report</a>
+- <a href="https://github.com/rebeccameyer11/InstacartDataAnalysis/tree/main" target="_blank">GitHub Repo</a><br>
+- <a href="https://docs.google.com/spreadsheets/d/17OX4X24E0fPhQf-v6XimJL1RkKlKF5VO/edit?gid=1159465294#gid=1159465294" target="_blank">Final Report</a>
